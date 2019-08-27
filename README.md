@@ -1,16 +1,6 @@
 # simple angular 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-# simple angular 
-
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 simple angular  is a development platform for building mobile and web applications using TypeScript/JavaScript  languages.
 
 ## Quickstart
@@ -22,7 +12,7 @@ npm install
 ```
 npm serve --port 1453 
 ```
- Navigate to `http://localhost:0606/`. The app will automatically reload if you change any of the source files.
+ Navigate to `http://localhost:1453/`. The app will automatically reload if you change any of the source files.
 
 ## Further help
 
