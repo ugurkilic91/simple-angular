@@ -1,6 +1,7 @@
 # simple angular 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+
 simple angular  is a development platform for building mobile and web applications using TypeScript/JavaScript  languages.
 
 ## Quickstart
